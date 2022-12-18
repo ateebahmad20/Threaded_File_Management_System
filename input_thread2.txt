@@ -1,0 +1,5 @@
+open Netflix,Apps,r
+open Lion King,Movies,w
+write_to_file Lion King,Movies,"abcd"
+close Lion King
+show_memory_map

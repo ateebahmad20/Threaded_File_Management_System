@@ -1,0 +1,7 @@
+create file2.txt,Games
+open file1.txt,Games,r
+open file1.txt,Games,w
+write_to_file file1.txt,Games,"abcd"
+move file3.txt,Apps
+close file1.txt
+show_memory_map

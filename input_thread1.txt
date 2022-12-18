@@ -1,0 +1,7 @@
+open file2.txt,Games,w
+write_to_file file2.txt,Games,"abcd"
+open file2.txt,Games,r
+move file3.txt,Apps
+delete Netflix,Apps
+close file1.txt
+show_memory_map

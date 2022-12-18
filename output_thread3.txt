@@ -1,0 +1,20 @@
+
+file2.txt Opened in Write mode! Text Written: "xyz"
+
+file2.txt Opened in read mode!
+""xyz""
+Netflix Does not Exist!
+ Text Written: "Netlfix
+
+
+Moving File file1.txt From Movies...
+
+"file1.txt" Deleted!**
+
+File file1.txt Successfully Moved!
+Netflix Closed Successfully!
+
+Memory Map:
+Apps:Stremio[0]->Youtube[0]->file3.txt[0]->NULL
+Movies:Lion King[6]->Madagascar[0]->The Enemy[0]->file1.txt[0]->NULL
+Games:file2.txt[5]->NULL

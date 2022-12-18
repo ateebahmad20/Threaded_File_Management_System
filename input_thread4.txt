@@ -1,0 +1,5 @@
+create file3.txt,Games
+open file1.txt,Games,w
+write_to_file file1.txt,Games,"ef"
+close file1.txt
+show_memory_map

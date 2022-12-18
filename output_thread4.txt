@@ -1,0 +1,10 @@
+
+file3.txt was created in Folder Games**
+file1.txt Does not Exist!
+ Text Written: "ef"
+file1.txt Closed Successfully!
+
+Memory Map:
+Apps:Stremio[0]->Youtube[0]->file3.txt[0]->NULL
+Movies:Lion King[6]->Madagascar[0]->The Enemy[0]->file1.txt[0]->NULL
+Games:file2.txt[5]->file3.txt[0]->NULL

@@ -1,0 +1,9 @@
+Netflix Does not Exist!
+
+Lion King Opened in Write mode! Text Written: "abcd"
+Lion Closed Successfully!
+
+Memory Map:
+Apps:Stremio[0]->Youtube[0]->file3.txt[0]->NULL
+Movies:Lion King[6]->Madagascar[0]->The Enemy[0]->file1.txt[6]->NULL
+Games:file2.txt[6]->NULL

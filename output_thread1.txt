@@ -1,0 +1,19 @@
+
+file2.txt Opened in Write mode! Text Written: "abcd"
+
+file2.txt Opened in read mode!
+""abcd""
+
+
+Moving File file3.txt From Games...
+
+"file3.txt" Deleted!**
+
+File file3.txt Already Exist!
+Netflix Doesnot Exist
+file1.txt Closed Successfully!
+
+Memory Map:
+Apps:Stremio[0]->Youtube[0]->file3.txt[0]->NULL
+Movies:Lion King[6]->Madagascar[0]->The Enemy[0]->file1.txt[0]->NULL
+Games:file2.txt[6]->NULL

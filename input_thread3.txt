@@ -1,0 +1,8 @@
+open file2.txt,Games,w
+write_to_file file2.txt,Games,"xyz"
+open file2.txt,Games,r
+open Netflix,Apps,w
+write_to_file Netflix,Apps,"Netlfix Script File"
+move file1.txt,Movies
+close Netflix
+show_memory_map

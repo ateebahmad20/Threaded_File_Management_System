@@ -1,0 +1,3 @@
+Apps:Stremio[0]->Youtube[0]->file3.txt[0]->
+Movies:Lion King[6]->Madagascar[0]->The Enemy[0]->file1.txt[0]->
+Games:file2.txt[6]->
